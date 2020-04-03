@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583488908 source:c:\users\nagay\desktop\c programming\struct example\main.c
+	<stdio.h>
+	<stdlib.h>
+
